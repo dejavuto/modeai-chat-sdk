@@ -1,4 +1,10 @@
-# [Smooch](http://www.smooch.io)
+
+
+
+# mode.ai chat sdk
+
+
+## Forked from [Smooch](http://www.smooch.io)
 
 [![Pod Version](http://img.shields.io/cocoapods/v/Smooch.svg)](http://cocoadocs.org/docsets/Smooch/)
 [![Platform](http://img.shields.io/cocoapods/p/Smooch.svg)](http://cocoadocs.org/docsets/Smooch/)
